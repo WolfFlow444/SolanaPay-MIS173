@@ -1,0 +1,11 @@
+[
+    {
+      "id": 1,
+      "name": "Dream Vacation",
+      "price": "50",
+      "description": "Spin the wheel of fortune for a chance to win an all inclusive vaction to California. Only 50 USDC to Spin!",
+      "image_url": "https://www.weirdworm.com/wp-content/uploads/2020/09/California-1021x580.jpg",
+      "filename": "Trip Itenary.pdf",
+      "hash": "Qmc5uKbhYbt5M5T8Bg8aoKetNLuUPjpjnFG8oyBveha86k"
+    }
+  ]
